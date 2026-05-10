@@ -172,5 +172,5 @@ Enter Allocation matrix (5 rows × 3 cols):
 ---
 
 ## Author
-OS Assignment Submission — CPU Scheduling & Deadlock Avoidance
+Seida Esmael and Sifen Simeneh
 # cpu-scheduling-assignment
