@@ -171,6 +171,23 @@ Enter Allocation matrix (5 rows × 3 cols):
 
 ---
 
-## Author
-Seida Esmael and Sifen Simeneh
-# cpu-scheduling-assignment
+## Group Member
+| No. | Full Name                    | Student ID |
+| --- | ---------------------------- | ---------- |
+| 1   | SEIDA ESMAEL EBRAHIM         | BDU1604796 |
+| 2   | ABEMELEK ABDULAK FIKADU      | BDU1603712 |
+| 3   | KALKIDAN AMARE BOGALE        | BDU1604433 |
+| 4   | KIDUS WESENU SHABALA         | BDU1604482 |
+| 5   | GEBIYAW ADANE BIRHANE        | BDU1702021 |
+| 6   | BETHELEHEM KINDIE EJIGAYEHU  | BDU1701681 |
+| 7   | BEZAWIT AMSALU YALEW         | BDU1701699 |
+| 8   | MAHLET AYSHESHIM KASSA       | BDU1604518 |
+| 9   | ETSEPATOS FASSIL TAYE        | BDU1701920 |
+| 10  | HAYILEGEBRIEL MEMHIRU YOHANS | BDU1702133 |
+| 11  | NAHOM MESFIN ALEMU           | BDU1702437 |
+| 12  | ADONIYAS TEMESGEN FENTAHUN   | BDU1701510 |
+| 13  | MEKLIT MEKONNEN ASSEFA       | BDU1702331 |
+| 14  | YEABTSEGA BIZUALEM DINKAYEHU | BDU1702781 |
+
+#Contributors
+This project was developed collaboratively by the students listed above as part of an academic assignment.
