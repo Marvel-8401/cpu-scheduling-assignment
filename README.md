@@ -189,5 +189,5 @@ Enter Allocation matrix (5 rows × 3 cols):
 | 13  | MEKLIT MEKONNEN ASSEFA       | BDU1702331 |
 | 14  | YEABTSEGA BIZUALEM DINKAYEHU | BDU1702781 |
 
-#Contributors
+# Contributors
 This project was developed collaboratively by the students listed above as part of an academic assignment.
